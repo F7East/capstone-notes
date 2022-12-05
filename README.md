@@ -1,3 +1,3 @@
 # capstone-notes
 
-This repo is for keeping track for capstone code written
+This repo is for keeping track of capstone code written
